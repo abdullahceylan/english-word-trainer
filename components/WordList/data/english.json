@@ -1,0 +1,426 @@
+[
+  {
+    "word": "reliable",
+    "translation": {
+      "en": ["consistently good in quality or performance; able to be trusted"]
+    },
+    "transcription": "/riˈlīəbəl/",
+    "type": "general",
+    "comment": "a reliable source of information"
+  },
+  {
+    "word": "agriculture",
+    "translation": {
+      "en": ["the science or practice of farming"]
+    },
+    "transcription": "/agriˌkəlCHər/",
+    "type": "general",
+    "comment": "Success in obtaining the required output of food from agriculture depends on soil fertility"
+  },
+  {
+    "word": "greenhouse gases",
+    "translation": {
+      "en": ["such as carbon dioxide, metane"]
+    },
+    "transcription": "/grēnˌhous gasəz/",
+    "type": "general",
+    "comment": ""
+  },
+  {
+    "word": "auspices",
+    "translation": {
+      "en": ["a divine or prophetic token."]
+    },
+    "transcription": "/ôspisəs/",
+    "type": "general",
+    "comment": "Cultural genealogy, more so than ordinary genealogy, depends on a belief in the magical and usually divine auspices of lineage."
+  },
+  {
+    "word": "conclude",
+    "translation": {
+      "en": ["bring (something) to an end."]
+    },
+    "transcription": "/kənˈklo͞od/",
+    "type": "general",
+    "comment": ""
+  },
+  {
+    "word": "unavoidable",
+    "translation": {
+      "en": ["not able to be avoided, prevented, or ignored; inevitable."]
+    },
+    "transcription": "/ənəˈvoidəbəl/",
+    "type": "general",
+    "comment": "adjective"
+  },
+  {
+    "word": "melt",
+    "translation": {
+      "en": ["an act of melting."]
+    },
+    "transcription": "/melt/",
+    "type": "general",
+    "comment": "verb"
+  },
+  {
+    "word": "cattle",
+    "translation": {
+      "en": ["large ruminant animals with horns and cloven hoofs, domesticated for meat or milk, or as beasts of burden; cows."]
+    },
+    "transcription": "/katl/",
+    "type": "general",
+    "comment": "noun"
+  },
+
+  {
+    "word": "extinct",
+    "translation": {
+      "en": ["(of a species, family, or other larger group) having no living members."]
+    },
+    "transcription": "/ikstiNG(k)t/",
+    "type": "general",
+    "comment": "verb"
+  },
+  {
+    "word": "unintentional",
+    "translation": {
+      "en": ["accidentally"]
+    },
+    "transcription": "/əninˈtenCHənl/",
+    "type": "general",
+    "comment": ""
+  },
+  {
+    "word": "drown",
+    "translation": {
+      "en": ["die through submersion in and inhalation of water."]
+    },
+    "transcription": "/droun/",
+    "type": "general",
+    "comment": ""
+  },
+  {
+    "word": "respiration",
+    "translation": {
+      "en": ["the action of breathing."]
+    },
+    "transcription": "/respəˈrāSHən/",
+    "type": "general",
+    "comment": "noun"
+  },
+  {
+    "word": "eruption",
+    "translation": {
+      "en": ["an act or instance of erupting."]
+    },
+    "transcription": "/iˈrəpSHən/",
+    "type": "general",
+    "comment": "noun"
+  },
+  {
+    "word": "stance",
+    "translation": {
+      "en": ["a person's posture."]
+    },
+    "transcription": "/stans/",
+    "type": "general",
+    "comment": "noun - This stance explains his famous two-pizza team rule, that teams shouldn't be larger than what two pizzas can feed. "
+  },
+  {
+    "word": "fervent",
+    "translation": {
+      "en": ["having or displaying a passionate intensity."]
+    },
+    "transcription": "/fərvənt/",
+    "type": "general",
+    "comment": "adjective - Teamwork expert Hackman pegs his magic number at 5 and fervently warns against going above 10."
+  },
+  {
+    "word": "intentional",
+    "translation": {
+      "en": ["done on purpose; deliberate."]
+    },
+    "transcription": "/inˈtenCHənl/",
+    "type": "general",
+    "comment": ""
+  },
+  {
+    "word": "crave",
+    "translation": {
+      "en": ["a powerful desire for something"]
+    },
+    "transcription": "/krāv/",
+    "type": "general",
+    "comment": "a craving for chocolate"
+  },
+  {
+    "word": "enthusiastic",
+    "translation": {
+      "en": ["having or showing intense and eager enjoyment, interest, or approval."]
+    },
+    "transcription": "/enˌTHo͞ozēˈastik/",
+    "type": "general",
+    "comment": "an enthusiastic person"
+  },
+  {
+    "word": "lunar eclipse",
+    "translation": {
+      "en": ["an eclipse in which the moon appears darkened as it passes into the earth's shadow."]
+    },
+    "transcription": "/lo͞onər iˈklips/",
+    "type": "general",
+    "comment": "For those who are newer to the whole eclipse business, a lunar eclipse occurs when the moon passes into the earth's shadow."
+  },
+  {
+    "word": "cereal",
+    "translation": {
+      "en": ["a grain used for food, such as wheat, oats, or corn."]
+    },
+    "transcription": "/si(ə)rēəl/",
+    "type": "general",
+    "comment": "noun"
+  },
+  {
+    "word": "needle",
+    "translation": {
+      "en": ["a very fine slender piece of metal with a point at one end and a hole or eye for thread at the other, used in sewing."]
+    },
+    "transcription": "/nēdl/",
+    "type": "general",
+    "comment": "noun"
+  },
+  {
+    "word": "sewing",
+    "translation": {
+      "en": ["the action or activity of sewing."]
+    },
+    "transcription": "/sō-iNG/",
+    "type": "general",
+    "comment": ""
+  },
+  {
+    "word": "knit",
+    "translation": {
+      "en": ["make (a garment, blanket, etc.) by interlocking loops of wool or other yarn with knitting needles or on a machine."]
+    },
+    "transcription": "/nit/",
+    "type": "general",
+    "comment": "verb"
+  },
+  {
+    "word": "buzzer",
+    "translation": {
+      "en": ["an electrical device, similar to a bell, that makes a buzzing noise and is used for signaling."]
+    },
+    "transcription": "/bəzər/",
+    "type": "general",
+    "comment": ""
+  },
+  {
+    "word": "lowered",
+    "translation": {
+      "en": ["move (someone or something) in a downward direction."]
+    },
+    "transcription": "/lou(ə)rəd/",
+    "type": "general",
+    "comment": "he watched the coffin being lowered into the ground"
+  },
+  {
+    "word": "pier",
+    "translation": {
+      "en": ["a structure leading out from the shore into a body of water, in particular."]
+    },
+    "transcription": "/pi(ə)r/",
+    "type": "general",
+    "comment": ""
+  },
+  {
+    "word": "extinction",
+    "translation": {
+      "en": ["the state or process of a species, family, or larger group being or becoming extinct."]
+    },
+    "transcription": "/ikˈstiNG(k)SHən/",
+    "type": "general",
+    "comment": "the extinction of the great auk"
+  },
+  {
+    "word": "insult",
+    "translation": {
+      "en": ["a disrespectful or scornfully abusive remark or action."]
+    },
+    "transcription": "/insult/",
+    "type": "general",
+    "comment": "he hurled insults at us"
+  },
+  {
+    "word": "hurl",
+    "translation": {
+      "en": ["throw (an object) with great force."]
+    },
+    "transcription": "/hərl/",
+    "type": "general",
+    "comment": "he hurled insults at us"
+  },
+  {
+    "word": "integral",
+    "translation": {
+      "en": ["necessary to make a whole complete; essential or fundamental."]
+    },
+    "transcription": "/intigrəl/",
+    "type": "general",
+    "comment": "Food is an integral part of Turkish society."
+  },
+  {
+    "word": "integral part of...",
+    "translation": {
+      "en": ["necessary to make a whole complete; essential or fundamental."]
+    },
+    "transcription": "/intigrəl pärt of/",
+    "type": "general",
+    "comment": "games are an integral part of the school's curriculum"
+  },
+  {
+    "word": "curriculum",
+    "translation": {
+      "en": ["the subjects comprising a course of study in a school or college."]
+    },
+    "transcription": "/kəˈrikyələm/",
+    "type": "general",
+    "comment": "Many children continue to study their own curriculum by attending evening classes."
+  },
+  {
+    "word": "contrary",
+    "translation": {
+      "en": ["opposite in nature, direction, or meaning."]
+    },
+    "transcription": "/contrary/",
+    "type": "general",
+    "comment": "Contrary to popular belief, Turks only drink their version of coffee on a few days during the week."
+  },
+  {
+    "word": "setting/putting the world to rights",
+    "translation": {
+      "en": ["to discuss or say how the world should be changed to make people's lives better / discussing the world's problems and what you'd do to solve them."]
+    },
+    "transcription": "/.../",
+    "type": "phrase/idiom",
+    "comment": "Turkish people love to meet new friends and think nothing of spending half the day talking to a complete stranger while putting the world to rights."
+  },
+  {
+    "word": "merrier",
+    "translation": {
+      "en": ["cheerful and lively"]
+    },
+    "transcription": "/mɛr(i)yər/",
+    "type": "general",
+    "comment": "The motto here is the more the merrier and the word stranger is not even thought of."
+  },
+  {
+    "word": "stagnant",
+    "translation": {
+      "en": ["(of a body of water or the atmosphere of a confined space) having no current or flow and often having an unpleasant smell as a consequence."]
+    },
+    "transcription": "/staɡnənt/",
+    "type": "general",
+    "comment": "If you want to help by washing the dishes, remember that Muslims do not believe in bathing or washing items in stagnant water. "
+  },
+  {
+    "word": "let's get into the nitty-gritty",
+    "translation": {
+      "en": ["to start a new subject, regard/the most important aspects or practical details of a subject or situation."]
+    },
+    "transcription": "/.../",
+    "type": "phrase",
+    "comment": "Let's get into the nitty-gritty by looking at how we would go about adding new items to both of our To Do Apps./let's get down to the nitty-gritty of finding a job"
+  },
+  {
+    "word": "transpire",
+    "translation": {
+      "en": ["occur, happen"]
+    },
+    "transcription": "/tranˈspī(ə)r/",
+    "type": "general",
+    "comment": "I'm going to find out exactly what transpired."
+  },
+  {
+    "word": "fishy",
+    "translation": {
+      "en": ["Anything smells, tastes, or resembles a fish in some way. Suspicious people and situations are also called by this word."]
+    },
+    "transcription": "/ˈfiSHē/",
+    "type": "general",
+    "comment": "If you say something is fishy, it probably means you think something is suspicious. If you're sitting next to someone eating a tuna sandwich, though, you could just mean you smell a fishy odor. / A guy looking over your shoulder while you use an ATM is fishy. A student looking at her arm for answers during a test is fishy."
+  },
+  {
+    "word": "pickle",
+    "translation": {
+      "en": ["a difficult or messy situation.", "a small cucumber preserved in vinegar, brine, or a similar solution."]
+    },
+    "transcription": "/pikəl/",
+    "type": "general",
+    "comment": "In the making of fresh-pack pickles, cucumbers are acidified quickly with vinegar./I am in a pickle."
+  },
+  {
+    "word": "cease",
+    "translation": {
+      "en": ["bring or come to an end."]
+    },
+    "transcription": "/sēs/",
+    "type": "general",
+    "comment": "Never cease to worship you"
+  },
+  {
+    "word": "amicable",
+    "translation": {
+      "en": ["(of relations between people) having a spirit of friendliness; without serious disagreement or rancor."]
+    },
+    "transcription": "/ˈamikəbəl/",
+    "type": "general",
+    "comment": "there will be an amicable settlement of the dispute"
+  },
+  {
+    "word": "bizarre",
+    "translation": {
+      "en": ["very strange or unusual, especially so as to cause interest or amusement"]
+    },
+    "transcription": "/biˈzär/",
+    "type": "general",
+    "comment": "her bizarre dresses and outrageous hairdos"
+  },
+  {
+    "word": "curb",
+    "translation": {
+      "en": ["a stone or concrete edging to a street or path.", "a check or restraint on something."]
+    },
+    "transcription": "/kərb/",
+    "type": "general",
+    "comment": "She had to sit on the hard concrete curb in order to collect herself"
+  },
+  {
+    "word": "hazard",
+    "translation": {
+      "en": ["a danger or risk."]
+    },
+    "transcription": "/hazərd/",
+    "type": "general",
+    "comment": "the hazards of smoking"
+  },
+  {
+    "word": "approach",
+    "translation": {
+      "en": ["a way of dealing with something.", "come near or nearer to (someone or something) in distance."]
+    },
+    "transcription": "/əˈprōCH/",
+    "type": "general",
+    "comment": "the train approached the main line"
+  },
+  {
+    "word": "ought",
+    "translation": {
+      "en": ["used to indicate duty or correctness, typically when criticizing someone's actions."]
+    },
+    "transcription": "/ôt/",
+    "type": "general",
+    "comment": "they ought to respect the law"
+  }
+]
