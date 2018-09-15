@@ -2,15 +2,41 @@
   "env": {
     "development": {
       "presets": ["next/babel"],
-      "plugins": ["react-element-info", ["babel-plugin-styled-components", { "ssr" : true, "displayName": false}] ]
+      "plugins": [
+        "react-element-info",
+        [
+          "babel-plugin-styled-components",
+          {
+            "ssr" : true,
+            "displayName": false
+          }
+        ]
+      ]
     },
     "production": {
       "presets": ["next/babel"],
-      "plugins": [["babel-plugin-styled-components", { "ssr" : true, "displayName": false}] ]
+      "plugins": [
+        [
+          "babel-plugin-styled-components",
+          {
+            "ssr" : true,
+            "displayName": false
+          }
+        ]
+      ]
     },
     "test": {
       "presets": ["next/babel"],
-      "plugins": ["react-element-info", ["babel-plugin-styled-components", { "ssr" : true, "displayName": false}] ]
+      "plugins": [
+        "react-element-info",
+        [
+          "babel-plugin-styled-components",
+          {
+            "ssr" : true,
+            "displayName": false
+          }
+        ]
+      ]
     }
   }
 }

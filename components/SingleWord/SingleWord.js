@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { has, isArray, isEmpty } from 'lodash/fp';
-import config from '../../config';
+import { DEFAULT_LANG } from '../../config';
 import {
   WordWrapper,
   WordHeader,
@@ -17,9 +17,8 @@ const SingleWord = ({ content, visible }) => {
   if (isEmpty(content)) {
     return null;
   }
-  const { word, translation, transcription, comment, type } = content;
-  const currentLangTranslation = has(translation, config.DEFAULT_LANG) ? translation[config.DEFAULT_LANG] : translation.en;
-
+  const { id, word, translation, transcription, comment, type } = content;
+  const currentLangTranslation = translation && has(DEFAULT_LANG, translation) && translation[DEFAULT_LANG];
   return (
     <WordWrapper visible={visible}>
       <WordHeader>

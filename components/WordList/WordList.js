@@ -1,21 +1,30 @@
 import React, { PureComponent } from 'react';
 import { take, shuffle, head } from 'lodash/fp';
+import firebase from '../../firebase';
 import SingleWord from '../SingleWord';
-import wordsData from './data/english.json';
+import { WordListWrapper } from './WordList.styles';
 
 class WordList extends PureComponent {
   constructor(props) {
     super(props);
 
     this.state = {
-      word: {},
-      show: false,
-    }
+      currentWord: {
+        word: `press 'space' to start`,
+      },
+      show: true,
+    };
+
+    this.words = [];
+  }
+
+  componentWillMount = () => {
+    this.database = firebase.database();
   }
 
   componentDidMount = () => {
     document.addEventListener("keydown", this.handleKeyDown, false);
-    this.pickWord();
+    this.getWordList();
   }
 
   componentWillReceiveProps = (nextProps) => {
@@ -28,6 +37,13 @@ class WordList extends PureComponent {
     document.removeEventListener("keydown", this.handleKeyDown, false);
   }
 
+  getWordList = () => {
+    const itemsRef = this.database.ref('words').orderByChild('id');
+    itemsRef.on('value', (snapshot) => {
+      this.words = snapshot.val();
+    });
+  }
+
   handleKeyDown = (event) => {
     if (event.keyCode == 32) {
       event.preventDefault();
@@ -37,16 +53,18 @@ class WordList extends PureComponent {
   }
 
   pickWord = () => {
-    const pick = take(1, shuffle(wordsData));
+    const pick = take(1, shuffle(this.words));
     const word = head(pick);
     setTimeout(() => {
-      this.setState({ word, show: true });
+      this.setState({ currentWord: word, show: true });
     }, 1000);
   }
 
   render () {
     return (
-      <SingleWord content={this.state.word} visible={this.state.show} />
+      <WordListWrapper>
+        { this.words && <SingleWord content={this.state.currentWord} visible={this.state.show} /> }
+      </WordListWrapper>
     );
   }
 }

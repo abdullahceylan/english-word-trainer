@@ -27,16 +27,18 @@ class Home extends PureComponent {
 
   render () {
     return (
-      <HomeWrapper
-        onTouchStart={(e) => this.onTouchStart(e)}
-        onTouchEnd={(e) => this.onTouchEnd(e)}
-      >
-        <WordList touched={this.state.touched} />
+      <React.Fragment>
+        <HomeWrapper
+          onTouchStart={(e) => this.onTouchStart(e)}
+          onTouchEnd={(e) => this.onTouchEnd(e)}
+        >
+          <WordList touched={this.state.touched} />
+        </HomeWrapper>
         <Footer>
           <KeyHint>press 'space' to change the word</KeyHint>
           <TextLink href="https://github.com/abdullahceylan/english-word-trainer" target="_blank">code</TextLink>
         </Footer>
-      </HomeWrapper>
+      </React.Fragment>
     )
   }
 };

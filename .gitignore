@@ -5,3 +5,4 @@ dist
 .idea/
 yarn.lock
 .next
+config/config.js
