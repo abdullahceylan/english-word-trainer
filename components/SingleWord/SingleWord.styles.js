@@ -70,6 +70,7 @@ export const Comment = styled.span`
 `;
 
 export const WordWrapper = styled.div`
+  position:relative;
   width: 100vw;
   height: 95vh;
   display: flex;
