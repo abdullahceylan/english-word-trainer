@@ -46,7 +46,8 @@ export const Transcription = styled(Text)`
 
 export const Word = styled.span`
   font-size: ${prop('textSize', 6)}vw;
-  line-height: 30vh;
+  text-align: center;
+  line-height: 12vh;
   opacity: 0;
   transform: scale(0.95);
   transition: all 1s;
