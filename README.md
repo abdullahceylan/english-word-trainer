@@ -5,6 +5,8 @@
 <p align="center"><a href="https://codeclimate.com/github/abdullahceylan/english-word-trainer/maintainability"><img src="https://api.codeclimate.com/v1/badges/f21bd5a2b6d1fc1c4ef6/maintainability" /></a></p>
 
 ## Prerequisites
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fabdullahceylan%2Fenglish-word-trainer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fabdullahceylan%2Fenglish-word-trainer?ref=badge_shield)
+
 
 In order to run this app you will need a [Firebase Database](https://firebase.google.com/docs/web/setup).
 
@@ -29,3 +31,7 @@ You can test on https://english-word-trainer.herokuapp.com
 ## To-Do
 - [ ] Add new word
 - [ ] Word pronouncing support
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fabdullahceylan%2Fenglish-word-trainer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fabdullahceylan%2Fenglish-word-trainer?ref=badge_large)
