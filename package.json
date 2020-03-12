@@ -18,7 +18,7 @@
   "dependencies": {
     "firebase": "^5.5.0",
     "lodash": "^4.17.11",
-    "next": "^6.1.2",
+    "next": "^8.0.0",
     "prop-types": "^15.6.2",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
