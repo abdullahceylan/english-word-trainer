@@ -16,7 +16,7 @@
     "url": "git+https://github.com/abdullahceylan/english-word-trainer.git"
   },
   "dependencies": {
-    "firebase": "^5.5.0",
+    "firebase": "^8.0.1",
     "lodash": "^4.17.11",
     "next": "^6.1.2",
     "prop-types": "^15.6.2",
